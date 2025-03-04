@@ -1,4 +1,4 @@
-name = "cf-worker-ws-dev"
+name = "PrinceZuko"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
@@ -6,6 +6,6 @@ workers_dev = true
 
 [vars]
 # PROXYIP = "211.230.110.231:50008"
-UUID = "1b6c1745-992e-4aac-8685-266c090e50ea"
+UUID = "6e6c3015-e679-418e-abe1-91b4e2d28d4b"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
